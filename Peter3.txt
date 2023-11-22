@@ -1,0 +1,5 @@
+Name	sal	
+Anto	4500.0	
+Smith	2500.0	
+Maran	52200.0	
+Mani	2578.0	
